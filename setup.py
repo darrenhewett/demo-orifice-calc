@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="demo_orifice_calc",
-    version="1.0.0",
+    version="1.0.1",
     description="Demonstration of an orifice calculation module",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -23,6 +23,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
-    ],
-    install_requires=["scipy", "math"],
+    ]
 )
