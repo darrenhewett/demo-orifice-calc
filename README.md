@@ -2,6 +2,8 @@
 
 A simple python package containing a single-function module which calculates the orifice diameter required to acheive a given flowrate in a pipe. The calculation itself is straightforward and serves as an example of how Python libraries could be used to manage verified and tested calculations rather than using uncontrolled and untrusted spreadsheets.
 
+[![Build Status](https://travis-ci.com/darrenhewett/demo-orifice-calc.svg?branch=master)](https://travis-ci.com/darrenhewett/demo-orifice-calc)
+
 ## Installation
 
 You can install this demo orifice calculation module from PyPI:
